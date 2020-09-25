@@ -7,7 +7,6 @@
 </div>
 
 
-<div align="center">
 [![Atlan's github stats](https://github-readme-stats.vercel.app/api?username=AtlanPrime&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/AtlanPrime)
 <br>
 <img align="center" src="https://komarev.com/ghpvc/?username=AtlanPrime&style=flat-square" />
@@ -27,6 +26,5 @@
 
 <br><br><br><br>
 
-</div>
 
 <!-- Thanks to :- ⭐️ From [TheDudeThatCode](https://github.com/TheDudeThatCode) -->
