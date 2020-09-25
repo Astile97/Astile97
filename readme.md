@@ -4,8 +4,6 @@
 	<img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="64" height="64">
 	<br>
 	<br>
-</div>
-
 
 [![Atlan's github stats](https://github-readme-stats.vercel.app/api?username=AtlanPrime&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/AtlanPrime)
 <br>
@@ -28,3 +26,5 @@
 
 
 <!-- Thanks to :- ⭐️ From [TheDudeThatCode](https://github.com/TheDudeThatCode) -->
+
+</div>
