@@ -12,7 +12,7 @@
 <br>
      
   <br>
-  <a href="https://twitter.com/kuriakose_jr">
+  <a href="https://twitter.com/atlanprime">
     <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>
   <a href="https://www.instagram.com/atlanprime/">
